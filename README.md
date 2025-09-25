@@ -7,5 +7,6 @@
 5. Se ajustan las dependencias de Junit
 6. Se crea repositorio en GitHub y suben las ramas creadas previamente
 7. Configuración de Pipeline con GitHub Actions
+8. Creación de pruebas unitarias y esquema para prueba de integración, creación de gitignore, ajustes del pipeline
 
 
